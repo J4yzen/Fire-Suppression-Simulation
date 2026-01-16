@@ -1,0 +1,41 @@
+# Visual Studio specific
+.vs/
+*.suo
+*.user
+*.userosscache
+*.userprefs
+*.vcxproj.user
+*.vcxproj.filters
+*.ncb
+*.sdf
+*.opendb
+
+# Build directories
+Debug/
+Release/
+x64/
+bin/
+build/
+
+# Compiled object files
+*.obj
+*.o
+*.pch
+*.idb
+
+# Compiled binary/executable files
+*.exe
+*.out
+*.app
+
+# Precompiled headers
+*.gch
+
+# Debug files
+*.pdb
+*.dmp
+*.log
+
+# Misc / OS files
+*.DS_Store
+Thumbs.db
